@@ -19,7 +19,7 @@ public class CardNum {
 				+ "千位为：" + qianWei); // 个位
 
 		System.out.println("会员卡号之和为：" + zongHe); // 千位
-		System.out.println((zongHe > 15) ? "您中奖了！奖品是MP3" : "您未中奖！"); // 千位
+		System.out.println((zongHe > 15) ? "您中奖了！奖品是MP3" : "您未中奖！！！！"); // 千位
 
 	}
 
